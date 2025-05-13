@@ -9,8 +9,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shalinis97&label=Profile%20Views&color=0e75b6&style=flat)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalinis97&layout=compact&theme=default)
-
-
 ---
 
 ## 🛠️ Tools & Technologies
@@ -43,7 +41,7 @@
 
 ---
 
-## 📌 Pinned Projects
+## Projects
 
 Here are a few of my favorite repositories (auto-pinned on GitHub):
 
@@ -51,7 +49,7 @@ Here are a few of my favorite repositories (auto-pinned on GitHub):
 
 ---
 
-## 🎸 Fun Facts
+## Fun Facts
 
 🎵 Musician  
 🏋️‍♀️ Powerlifter  
@@ -66,4 +64,4 @@ Here are a few of my favorite repositories (auto-pinned on GitHub):
 
 ---
 
-*Last updated in 2025* ✨
+*Last updated in May 2025*
