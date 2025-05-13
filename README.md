@@ -9,8 +9,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shalinis97&label=Profile%20Views&color=0e75b6&style=flat)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalinis97&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalinis97&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shalinis97&theme=default)
+
 
 ---
 
