@@ -48,14 +48,6 @@ Here are a few of my favorite repositories (auto-pinned on GitHub):
 
 ---
 
-## Fun Facts
-
-🎵 Musician  
-🏋️‍♀️ Powerlifter  
-☕ Coffee enthusiast by day — 🍵 tea loyalist by night
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/shalinis97)
