@@ -9,9 +9,6 @@ If something sparks my curiosity, I dive in with a project, break it down in cod
 
 ---
 
-
----
-
 ## 🛠️ Tools & Technologies
 
 **Languages:**  
@@ -55,7 +52,8 @@ Here are a few of my favorite repositories (auto-pinned on GitHub):
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/shalinis97)
 
 ---
-#### 📈 GitHub Stats
+##### 📈 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shalinis97&label=Profile%20Views&color=0e75b6&style=flat)
+
 *Last updated in May 2025*
