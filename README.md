@@ -1,4 +1,4 @@
-👋 Hi there, I'm Shalini Saravanan
+# 👋 Hi there, I'm Shalini Saravanan
 
 🚀 **AI & Data Science enthusiast | I learn by building**  
 🎯 Currently diving deep into LLMs, Generative AI, and full-stack AI workflows.
