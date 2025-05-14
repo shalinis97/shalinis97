@@ -1,7 +1,19 @@
-# 👋 Hi there, I'm Shalini Saravanan
+👋 Hi there, I'm Shalini Saravanan
 
 🚀 **AI & Data Science enthusiast | I learn by building**  
 🎯 Currently diving deep into LLMs, Generative AI, and full-stack AI workflows.
+
+You’ll usually find me tucked into a quiet corner in the middle of the night — books out, coffee steaming, music on. Around me: messy notebooks, half-broken prototypes, unfinished notebooks in VS Code, and models waiting to be fine-tuned. I learn by doing — experimenting, debugging, and figuring out how to make things just a little more accurate, a little more real.
+
+I don’t just study AI — I build with it to understand it. If something sparks my curiosity, I dive in with a project, break it down in code, and let the process teach me what theory can’t. Whether it’s deploying a Streamlit app, iterating on a GenAI agent, or decoding a research paper through implementation, I’m always building my way forward. From dashboards to LLM tools, I thrive where experimentation meets execution. I don’t chase trends — I chase clarity, creativity, and clean systems that work.
+
+🔧 Toolkit:
+Python, SQL, Pandas, NumPy, Scikit-learn, Transformers (Hugging Face), PyTorch, Streamlit, FastAPI, OpenAI APIs, REST APIs, Git, Azure, Heroku, Vercel — and a growing command over prompt engineering and evaluation workflows.
+
+
+
+Previously, I built a reporting system from raw CRM data that replaced 3-day manual effort with a few clicks — used weekly by 25+ stakeholders.
+Outside this world: I’m a musician, powerlifter, and coffee enthusiast by day — tea loyalist by night. I like my models lean, my data clean, and my playlists chaotic.
 
 ---
 
@@ -34,8 +46,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)
 
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+**Databases:** 
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
 
 ---
