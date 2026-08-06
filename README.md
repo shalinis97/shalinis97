@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Shalini Saravanan
 
-🚀 **AI Engineer @ EY | I learn by building**  
-🎯 Currently diving deep into LLMs, Generative AI, and full-stack AI workflows.
+**AI Engineer @ EY | I learn by building**  
+Currently diving deep into LLMs, Generative AI, and full-stack AI workflows.
 
 You’ll usually find me tucked into a quiet corner in the middle of the night — books out, coffee steaming, music on. Around me: messy notebooks, half-broken prototypes, unfinished notebooks in VS Code, and models waiting to be fine-tuned. I learn by doing — experimenting, debugging, and figuring out how to make things just a little more accurate, a little more real.
 
